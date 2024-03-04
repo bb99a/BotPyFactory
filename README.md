@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project is a collection of Python scripts designed for automating tasks and creating bots for various purposes. From social media interactions to data scraping and automation of mundane tasks, these scripts leverage the power of Python to make life easier and more productive.
+This project is a collection of Python scripts designed for automating tasks and creating bots for various purposes. Automation of mundane tasks, these scripts leverage the power of Python to make life easier and more productive.
 
 ### Built With
 
@@ -18,7 +18,8 @@ To get a local copy up and running follow these simple example steps.
 - pip
 
 ### Installation
-To provide a comprehensive guide for users on installing Python and running a script, you can include the following installation steps in your README or documentation. This guide is designed for users who may not have Python installed or are unfamiliar with running Python scripts.
+
+A comprehensive guide for users on installing Python and running a script. This guide is designed for users who may not have Python installed or are unfamiliar with running Python scripts.
 
 ---
 
